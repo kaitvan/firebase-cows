@@ -1,0 +1,22 @@
+{
+    "farmerCow1": {
+        "uid": "1",
+        "farmerId": "9RcHYRP83kZXEaU27JFDT29cKCd2",
+        "cowId": "cow1"
+    },
+    "farmerCow2": {
+        "uid": "2",
+        "farmerId": "yOQtkH5FaycPLlBg7BY86e9wfTk1",
+        "cowId": "cow2"
+    },
+    "farmerCow3": {
+        "uid": "3",
+        "farmerId": "9RcHYRP83kZXEaU27JFDT29cKCd2",
+        "cowId": "cow3"
+    },
+    "farmerCow4": {
+        "uid": "4",
+        "farmerId": "youngbuck",
+        "cowId": "cow4"
+    }
+}
